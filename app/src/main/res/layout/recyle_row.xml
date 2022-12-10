@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@drawable/row"
+        android:fontFamily="@font/aclonica"
+        android:text="Recyle"
+        android:paddingLeft="15dp"
+        android:textColor="@color/kare"
+        android:textSize="33dp" />
+
+</LinearLayout>
